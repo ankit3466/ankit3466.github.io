@@ -51095,7 +51095,7 @@ V.B8.prototype={
 M:function(a,b){var s=null,r=t.w,q=b.R(r).f
 r=b.R(r).f
 q=q.a.a*0.1
-return M.bb(s,E.l8(T.cH(H.b([T.eC(M.bb(s,L.af("- - Some Projects on which I have worked - -",A.ax(s,s,C.i,s,s,s,s,s,s,s,s,30,s,C.R,s,s,!0,s,2,s,s,s,s,s),s,s),C.l,s,s,new S.ca(s,s,new F.bR(C.k,C.k,new Y.cn(C.aZ,1,C.E),C.k),s,s,s,C.z),s,s,s,new V.aq(0,0,0,7),s,s,s),s,s),T.al(s,30,s),new S.nb("assets/drivers.jpeg","Driver's Drowsiness Detection System",u.o,u.y,"odd",s),T.al(s,30,s),new S.nb("assets/face_mask.jpeg","Face Mask Detection Alarm System",u.K,u.v,"even",s),T.al(s,30,s),new S.nb("assets/weather.jpeg","Weather App",u.b,"Flutter, Dart","odd",s)],t.Y),C.a8)),C.l,s,s,new S.ca(new P.A(4278851887),s,s,s,s,s,C.z),s,s,s,new V.aq(q,60,q,r.a.b*0.08),s,s,s)}}
+return M.bb(s,E.l8(T.cH(H.b([T.eC(M.bb(s,L.af("- - Some Projects on which I have worked - -",A.ax(s,s,C.i,s,s,s,s,s,s,s,s,30,s,C.R,s,s,!0,s,2,s,s,s,s,s),s,s),C.l,s,s,new S.ca(s,s,new F.bR(C.k,C.k,new Y.cn(C.aZ,1,C.E),C.k),s,s,s,C.z),s,s,s,new V.aq(0,0,0,7),s,s,s),s,s),T.al(s,30,s),new S.nb("assets/drivers.jpeg","Driver's Drowsiness Detection System",u.o,u.y,"odd",s),T.al(s,60,s),new S.nb("assets/face_mask.jpeg","Face Mask Detection Alarm System",u.K,u.v,"even",s),T.al(s,60,s),new S.nb("assets/weather.jpeg","Weather App",u.b,"Flutter, Dart","odd",s)],t.Y),C.a8)),C.l,s,s,new S.ca(new P.A(4278851887),s,s,s,s,s,C.z),s,s,s,new V.aq(q,60,q,r.a.b*0.08),s,s,s)}}
 M.wJ.prototype={
 M:function(a,b){var s,r=null,q=t.w,p=b.R(q).f.a.a
 q=b.R(q).f
@@ -51118,7 +51118,7 @@ X.B9.prototype={
 M:function(a,b){var s=null,r=t.w,q=b.R(r).f
 r=b.R(r).f
 q=q.a.a*0.1
-return M.bb(s,E.l8(T.cH(H.b([T.eC(M.bb(s,L.af("--My Projects--",A.ax(s,s,C.i,s,s,s,s,s,s,s,s,20,s,C.R,s,s,!0,s,2,s,s,s,s,s),s,s),C.l,s,s,new S.ca(s,s,new F.bR(C.k,C.k,new Y.cn(C.aZ,1,C.E),C.k),s,s,s,C.z),s,s,s,new V.aq(0,0,0,7),s,s,s),s,s),T.al(s,30,s),new X.nc("assets/drivers.jpeg","Driver's Drowsiness Detection System",u.o,u.y,s),T.al(s,30,s),new X.nc("assets/face_mask.jpeg","Face Mask Detection Alarm System",u.K,u.v,s),T.al(s,30,s),new X.nc("assets/weather.jpeg","Weather App",u.b,"Flutter, Dart",s)],t.Y),C.a8)),C.l,s,s,new S.ca(new P.A(4278851887),s,s,s,s,s,C.z),s,s,s,new V.aq(q,60,q,r.a.b*0.08),s,s,s)}}
+return M.bb(s,E.l8(T.cH(H.b([T.eC(M.bb(s,L.af("--My Projects--",A.ax(s,s,C.i,s,s,s,s,s,s,s,s,20,s,C.R,s,s,!0,s,2,s,s,s,s,s),s,s),C.l,s,s,new S.ca(s,s,new F.bR(C.k,C.k,new Y.cn(C.aZ,1,C.E),C.k),s,s,s,C.z),s,s,s,new V.aq(0,0,0,7),s,s,s),s,s),T.al(s,60,s),new X.nc("assets/drivers.jpeg","Driver's Drowsiness Detection System",u.o,u.y,s),T.al(s,30,s),new X.nc("assets/face_mask.jpeg","Face Mask Detection Alarm System",u.K,u.v,s),T.al(s,60,s),new X.nc("assets/weather.jpeg","Weather App",u.b,"Flutter, Dart",s)],t.Y),C.a8)),C.l,s,s,new S.ca(new P.A(4278851887),s,s,s,s,s,C.z),s,s,s,new V.aq(q,60,q,r.a.b*0.08),s,s,s)}}
 F.A6.prototype={
 M:function(a,b){return new S.qX(new M.t4(!0,new D.C2(null),C.m,null),"Portfolio",!1,null)}}
 D.C2.prototype={
