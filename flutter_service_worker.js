@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "1cc1c596c20f4c515c75e07957d30072",
+  "main.dart.js": "41785aca9cb93f19b3b56de60c59d133",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "manifest.json": "00757ee30c79c70dfa7936ebb4e5bae7",
-"assets/AssetManifest.json": "964085b7e78b633cca46fa4df8c7c212",
+"assets/AssetManifest.json": "8546076f3c820523663f42fcbfce03b7",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -19,11 +19,12 @@ const RESOURCES = {
 "assets/assets/weather.jpeg": "adee47d4687a591953b5bfbe4e8092e7",
 "assets/assets/instagram.png": "1679dd635e0f4af129444c48422ed0ef",
 "assets/assets/twitter.png": "212665dd2b7cd2d15ad7abd7860b067e",
+"assets/assets/portfolio_ss.png": "5647ef3d851ed248d7622af9145cc212",
 "assets/assets/medium.png": "cef2863977c1265e207c7457b9f7531e",
 "assets/assets/profile.jpg": "2392b24d775e583d4c2af47b58b46826",
 "assets/NOTICES": "bc619ef0c09d5dced9e92fe88d6842ec",
-"index.html": "477d979b583cd806e4c65edd5cbcdf81",
-"/": "477d979b583cd806e4c65edd5cbcdf81",
+"index.html": "5b0e13295a5183b74565fcb9817d5128",
+"/": "5b0e13295a5183b74565fcb9817d5128",
 "version.json": "fbca06c3e3c3b54e4283ee27fee4d417"
 };
 
